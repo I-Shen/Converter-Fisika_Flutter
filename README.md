@@ -1,4 +1,7 @@
-# converterbesaranfisika
+# Converter Besaran Fisika
+# Framework Flutter
+# Project Kelas Dicoding
+# Muhammad Ihsan Nugroho
 
 AplikasiQ
 
